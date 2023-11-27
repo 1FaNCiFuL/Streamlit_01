@@ -1,2 +1,2 @@
 # Streamlit_01
-work on the EC2 &amp; Streamlit
+Work on the EC2 &amp; Streamlit
